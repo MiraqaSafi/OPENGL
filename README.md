@@ -24,3 +24,5 @@ Keyboard -
 •	Press 'g' or 'G' to change the signal light to green.
 •	Press 'd' or 'D' to make it day.
 •	Press 'n' or 'N' to make it night.
+
+![alt text](https://github.com/MiraqaSafi/OPENGL/blob/main/light.png)
